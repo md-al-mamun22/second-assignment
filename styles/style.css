@@ -395,7 +395,8 @@ p {
 
     .fact-des {
         text-align: center;
-        padding-left: 95px;
+        padding-left: 10px;
+        width: 100%;
     }
     .box-model {
        grid-template-columns: repeat(1,1fr);
